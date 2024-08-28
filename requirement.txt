@@ -1,0 +1,12 @@
+torch
+torchvision
+dgl-cu116
+tqdm
+pandas
+rdflib
+ftfy
+spacy
+numpy
+recbole
+transformers
+scipy
