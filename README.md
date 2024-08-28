@@ -5,9 +5,9 @@ This is the code of KCE3
 
 ### Installation
 ```
-conda create -n tirgn python=3.9
+conda create -n KCE3 python=3.9
 
-conda activate tirgn
+conda activate KCE3
 
 pip install -r requirement.txt
 ```
