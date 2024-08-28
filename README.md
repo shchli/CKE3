@@ -1,6 +1,6 @@
-# KCE^3
+# KCE3
 
-This is the code of KCE^3
+This is the code of KCE3
 
 
 ### Installation
